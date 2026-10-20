@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/tox-dev/tox-venv/commit/dab94edb9612897e95fa330d187b9e87fcab1350",
       "git:hexsha": "dab94edb9612897e95fa330d187b9e87fcab1350",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T21:55:51.019126+00:00"
     },
     {
       "@id": "https://repolex.ai/r/tox-dev/tox-venv/commit/1423f3411c9c4896344923d5a50acc07e9361969",
